@@ -1,2 +1,2 @@
 # qadesh
-Rust UI Flutter equivalent.
+Rust UI Flutter-like toolkit experimentation space.
