@@ -9,6 +9,8 @@
 
 ## RESEARCH
 
+- (how) do we do hot reloading?
+
 ### DIOXUS (1)
 
 + clone their repo and play around with it
